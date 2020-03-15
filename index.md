@@ -3,7 +3,7 @@ layout: default
 title: Dignity Library
 ---
 ```lua
-loadstring(game:HttpGet"https://pastebin.com/raw/nciNWESt"))()
+loadstring(game:HttpGet('https://pastebin.com/raw/nciNWESt'))();
 ```
 
 * * *
